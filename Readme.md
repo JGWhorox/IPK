@@ -37,11 +37,11 @@ kde:
 	
 napríklad:
 
-www.fit.vutbr.cz:A
-www.google.com:A
-www.seznam.cz:A
-147.229.14.131:PTR
-ihned.cz:A
+- www.fit.vutbr.cz:A
+- www.google.com:A
+- www.seznam.cz:A
+- 147.229.14.131:PTR
+- ihned.cz:A
 
 ## Popis implementácie
 Projekt je vypracovaný v jazyku python verzie 3.8 no je testovaný aj na 3.6.9. Obsahuje implementáciu 
